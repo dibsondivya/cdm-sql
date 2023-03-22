@@ -6,10 +6,10 @@ library(DBI)
 # Connect to the MySQL database
 con <- dbConnect(RMariaDB::MariaDB(), 
                  dbname = "London_Paris_DB", 
-                 host = "localhost", 
-                 port = 3306,
-                 user = "root",
-                 password = "student086")
+                 host = "<host>", 
+                 port = <port>,
+                 user = "<username>",
+                 password = "<password>")
 
 # Get table names
 tables <- dbListTables(con)
