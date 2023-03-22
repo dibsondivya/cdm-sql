@@ -1,4 +1,3 @@
-# CID: 01741199
 
 # Creating a database, tables and importing data
 ## 1: Create database
