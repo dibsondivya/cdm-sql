@@ -1,2 +1,2 @@
 # cdm-sql
-Coursework 1 for Clinical Data Management
+SQL-based Coursework 1 for Clinical Data Management
